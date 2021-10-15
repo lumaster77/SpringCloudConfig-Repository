@@ -9,11 +9,11 @@ shoppig:
       - age: 
           min: 24
           max: 32
-          name: B smart, Afinity Card
+          name: B smart,12 Afinity Card
       - age: 
           min: 33
           max: 75
-          name: B smart, Afinity Card
+          name: B smart,121 Afinity Card
   - Salary:
       min: 15000
       max: 34999
